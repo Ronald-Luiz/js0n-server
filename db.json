@@ -19,7 +19,7 @@
 
 
     "GPU": [
-        {"nomes": "RX 5700", "Valor": "1500", "valorParcelado": "12", "posicao":"2", "marca":"Gigabyte", "subtitulo":"", "imagem":"", "id":1},
+        {"nomes": "RTX 3090", "Valor": "R$18.900", "valorParcelado": "12", "posicao":"1", "marca":"ASUS", "subtitulo":"", "imagem":"https://a-static.mlcdn.com.br/800x560/placa-de-video-asus-geforce-rtx-3090-24gb-gddr6x-384-bits-rog-strix-gaming/magazineluiza/230472200/65b795e36daa4fd8df679cae018c1c0a.jpg", "id":1},
         {"nomes": "RTX 2060", "Valor": "1500", "valorParcelado": "12", "posicao":"2", "marca":"ASUS", "subtitulo":"", "imagem":"", "id":2},
         {"nomes": "RTX 3060", "Valor": "2500", "valorParcelado": "12", "posicao":"2", "marca":"AORUS", "subtitulo":"", "imagem":"", "id":3},
         {"nomes": "RTX 3070", "Valor": "3500", "valorParcelado": "12", "posicao":"2", "marca":"GALAX", "subtitulo":"", "imagem":"", "id":4},
