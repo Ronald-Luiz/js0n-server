@@ -19,11 +19,11 @@
 
 
     "GPU": [
-        {"nomes": "RX 5700", "Valor": "1500", "valorParcelado": "12", "posicao":"2:", "marca":"Gigabyte", "subtitulo":"", "imagem":"", "id":1},
-        {"nomes": "RTX 2060", "Valor": "1500", "valorParcelado": "12", "posicao":"2:", "marca":"ASUS", "subtitulo":"", "imagem":"", "id":1},
-        {"nomes": "RTX 3060", "Valor": "2500", "valorParcelado": "12", "posicao":"2:", "marca":"AORUS", "subtitulo":"", "imagem":"", "id":1},
-        {"nomes": "RTX 3070", "Valor": "3500", "valorParcelado": "12", "posicao":"2:", "marca":"GALAX", "subtitulo":"", "imagem":"", "id":1},
-        {"nomes": "RTX 3080", "Valor": "6400", "valorParcelado": "12", "posicao":"2:", "marca":"VENTUS", "subtitulo":"", "imagem":"", "id":1}
+        {"nomes": "RX 5700", "Valor": "1500", "valorParcelado": "12", "posicao":"2", "marca":"Gigabyte", "subtitulo":"", "imagem":"", "id":1},
+        {"nomes": "RTX 2060", "Valor": "1500", "valorParcelado": "12", "posicao":"2", "marca":"ASUS", "subtitulo":"", "imagem":"", "id":1},
+        {"nomes": "RTX 3060", "Valor": "2500", "valorParcelado": "12", "posicao":"2", "marca":"AORUS", "subtitulo":"", "imagem":"", "id":1},
+        {"nomes": "RTX 3070", "Valor": "3500", "valorParcelado": "12", "posicao":"2", "marca":"GALAX", "subtitulo":"", "imagem":"", "id":1},
+        {"nomes": "RTX 3080", "Valor": "6400", "valorParcelado": "12", "posicao":"2", "marca":"VENTUS", "subtitulo":"", "imagem":"", "id":1}
       ]
 
       
